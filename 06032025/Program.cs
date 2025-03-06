@@ -60,6 +60,7 @@
             del5 -= del2;
             Console.WriteLine("GRAND TOTAL : " + del5(5, 6));
             Console.ReadKey();
+            Console.WriteLine("Saraiya rishi");
         }
     }
 }
